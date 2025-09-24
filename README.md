@@ -10,24 +10,35 @@ The common recommendation pipeline involves many stages, from data preprocessing
 Duration: 180 minutes (3 hours)
 
 Greetings → 5 minutes
+
 Introduction → 15 minutes
+
 Standard Practices for Data Processing in Recommendation with DataRec → 90 minutes
+
 - Data Handling → 25 minutes
 - Data Characteristics → 15 minutes
 - DataRec Introduction → 10 minutes
 - DataRec Hands-on → 30 minutes
+
 Break → 30 minutes
+
 - Q&A → 10 minutes
+
 Standard practices for multimodal features extraction in recommendation with Ducho → 55 minutes
+
 - Multimodal Feature Extraction → 15 minutes
 - Ducho Introduction → 10 minutes
 - Ducho Hands-on → 30 minutes
 - Closing Remarks and Q&A → 10 min
 
-## Panelists
+## Panelists
 
-Alberto Carlo Maria Mancino (Politecnico di Bari - Italy)
-Matteo Attimonelli (Politecnico di Bari - Italy)
-Angela Di Fazio (Politecnico di Bari - Italy)
-Daniele Malitesta (Université Paris-Saclay, CentraleSupélec, Inria - France)
-Tommaso Di Noia (Politecnico di Bari - Italy)
+[Alberto Carlo Maria Mancino](mailto:alberto.mancino@poliba.it) (Politecnico di Bari - Italy)
+
+[Matteo Attimonelli](mailto:matteo.attimonelli@poliba.it) (Politecnico di Bari - Italy)
+
+[Angela Di Fazio](mailto:angela.difazio@poliba.it) (Politecnico di Bari - Italy)
+
+[Daniele Malitesta](mailto:daniele.malitesta@centralesupelec.fr) (Université Paris-Saclay, CentraleSupélec, Inria - France)
+
+[Tommaso Di Noia](mailto:tommaso.dinoia@poliba.it) (Politecnico di Bari - Italy)
